@@ -1,5 +1,7 @@
 package com.example.easychat.model;
 
+import com.example.easychat.utils.AESUtil;
+import com.example.easychat.utils.FirebaseUtil;
 import com.google.firebase.Timestamp;
 
 import java.util.List;
